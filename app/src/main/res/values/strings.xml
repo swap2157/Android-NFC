@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NFC Peerbits</string>
+    <string name="app_name">SC Reader</string>
     <string name="repoUrl">https://github.com/pro100svitlo/Credit-Card-NFC-Reader#questions-and-help</string>
     <string name="tv_noNfc">There is no NFC module on this device</string>
     <string name="tv_tapYourCard">Please put your card to back panel of the phone</string>
@@ -32,7 +32,7 @@
     <string name="str_nfc_homepage">Home Nfc</string>
     <string name="str_nfc_read_text">Tap your NFC tag on \n mobile to read</string>
     <string name="str_nfc_write_text">Tap your NFC tag on \n mobile to write</string>
-    <string name="str_Credit_Card_text">Tap your Credit Card on \n mobile to read</string>
+    <string name="str_Credit_Card_text">Tap your Card on \n mobile to read</string>
     <string name="str_reading">Reading</string>
     <string name="str_scanning">Scanning</string>
     <string name="str_expiry">Expiry</string>
