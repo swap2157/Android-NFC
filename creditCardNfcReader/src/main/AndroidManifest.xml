@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.peerbits.nfccardreader">
+    package="com.swapnil.nfccardreader">
 
     <uses-permission android:name="android.permission.NFC" />
     <application
